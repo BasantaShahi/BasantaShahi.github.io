@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 // above the more recent hospitality job rather than in date order.
 const jobs = [
   {
-    role: 'Quality Assurance & Governance Analyst',
+    role: 'Data Quality & Governance Analyst',
     company: 'Daraz Kyamu Pvt. Ltd.',
     location: 'Nepal',
     date: 'Jun 2019 – Dec 2022',
