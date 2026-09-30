@@ -11,7 +11,7 @@ const dashboards = [
     src: '/dashboards/superstore-model-evaluation.png',
     blurb:
       '51,290 global orders modelled to flag loss-making sales before they close. XGBoost reached 0.969 ROC-AUC; orders discounted above 30% lose money 92.7% of the time.',
-    href: 'https://github.com/basanta999s-ship-it/superstore-profitability-analysis',
+    href: 'https://github.com/BasantaShahi/superstore-profitability-analysis',
     hrefLabel: 'View on GitHub',
   },
   {
@@ -20,7 +20,7 @@ const dashboards = [
     src: '/dashboards/clinic-appointments.png',
     blurb:
       '1,000 messy appointment records standardized — eight spellings of gender, four currency formats, two date schemas. A chi-square test (p = 0.26) showed age does not predict department choice.',
-    href: 'https://github.com/basanta999s-ship-it/clinic-appointments-analysis',
+    href: 'https://github.com/BasantaShahi/clinic-appointments-analysis',
     hrefLabel: 'View on GitHub',
   },
   {
@@ -29,7 +29,7 @@ const dashboards = [
     src: '/dashboards/superstore-discount-profitability.png',
     blurb:
       'Profitability broken out by discount tier, isolating the threshold where margin turns negative across categories.',
-    href: 'https://github.com/basanta999s-ship-it/superstore-profitability-analysis',
+    href: 'https://github.com/BasantaShahi/superstore-profitability-analysis',
     hrefLabel: 'View on GitHub',
   },
 ];
